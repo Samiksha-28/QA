@@ -1,5 +1,5 @@
 # QA Engineer | Samiksha Metha 
-Quality-focused QA Engineer with 3+ years of experience testing high-traffic mobile and web applications (1M+ users).
+Quality-focused QA Engineer with 4+ years of experience testing high-traffic mobile and web applications (1M+ users).
 Skilled in designing detailed test plans, executing comprehensive test cases, and implementing effective test automation strategies, I specialize in delivering reliable and user-centric applications. My expertise includes working with tools like Selenium WebDriver, Postman, JMeter, and Cucumber, along with a strong understanding of Agile methodologies. 
 
 ### Core Expertise
